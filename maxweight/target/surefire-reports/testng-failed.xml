@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.jramberg.maxweighttest.MaxWeightTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.jramberg.maxweighttest.MaxWeightTest">
+        <methods>
+          <include name="testMaxEmptyArray"/>
+          <include name="testMaxWeightOddRight"/>
+        </methods>
+      </class> <!-- com.jramberg.maxweighttest.MaxWeightTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.jramberg.maxweighttest.MaxWeightTest] -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.jramberg.maxweighttest.MaxWeightTest" duration-ms="29" started-at="2014-11-24T02:58:09Z" finished-at="2014-11-24T02:58:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29" started-at="2014-11-24T02:58:09Z" finished-at="2014-11-24T02:58:09Z">
+      <class name="com.jramberg.maxweighttest.MaxWeightTest">
+        <test-method status="PASS" signature="testMaxEmptyArray()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxEmptyArray" duration-ms="10" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxEmptyArray -->
+        <test-method status="PASS" signature="testMaxOneBall()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxOneBall" duration-ms="0" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxOneBall -->
+        <test-method status="PASS" signature="testMaxWeightEvenLeft()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightEvenLeft" duration-ms="0" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightEvenLeft -->
+        <test-method status="PASS" signature="testMaxWeightEvenRight()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightEvenRight" duration-ms="1" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightEvenRight -->
+        <test-method status="PASS" signature="testMaxWeightOddLeft()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightOddLeft" duration-ms="1" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightOddLeft -->
+        <test-method status="PASS" signature="testMaxWeightOddMiddle()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightOddMiddle" duration-ms="1" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightOddMiddle -->
+        <test-method status="PASS" signature="testMaxWeightOddRight()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightOddRight" duration-ms="0" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightOddRight -->
+        <test-method status="PASS" signature="testMaxWeightOddRightMiddle()[pri:0, instance:com.jramberg.maxweighttest.MaxWeightTest@387aec07]" name="testMaxWeightOddRightMiddle" duration-ms="0" started-at="2014-11-23T18:58:09Z" finished-at="2014-11-23T18:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxWeightOddRightMiddle -->
+      </class> <!-- com.jramberg.maxweighttest.MaxWeightTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.jramberg.maxweighttest.MaxWeightTest -->
+</testng-results>
